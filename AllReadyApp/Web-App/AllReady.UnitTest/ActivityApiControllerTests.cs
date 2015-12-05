@@ -9,7 +9,6 @@ using Microsoft.Data.Entity;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
 
-//Modify the class for fun
 namespace AllReady.UnitTest
 {
     public class ActivityApiControllerTest : TestBase
